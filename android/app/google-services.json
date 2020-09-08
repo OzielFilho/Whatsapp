@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692336542913",
+    "firebase_url": "https://msg-projeto.firebaseio.com",
+    "project_id": "msg-projeto",
+    "storage_bucket": "msg-projeto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692336542913:android:5a298d3be7e28ac2a38040",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692336542913-i33b5ssmdt861kk5j7n1mp8mcl5ddpoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp",
+            "certificate_hash": "bfde7c743c7da2678a7fe1c7c41e7c69271a342e"
+          }
+        },
+        {
+          "client_id": "692336542913-72lbe86679iuo3gt1kdufpva688j8eot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzHWd9VXr9uJS_s0mbAcTAg6lC_SkXM_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692336542913-72lbe86679iuo3gt1kdufpva688j8eot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
